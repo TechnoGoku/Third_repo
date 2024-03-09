@@ -14,9 +14,11 @@ users = [
 def get_upcoming_birthdays(users):
     pass
 
+print(users)
 
 
 
 
+get_upcoming_birthdays(users)
 now = datetime.today().date()
 print(now)
